@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.genruntimeconfig.cache

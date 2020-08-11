@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\obj\Debug\netcoreapp3.1\NameArray.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\obj\Debug\netcoreapp3.1\NameArray.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\obj\Debug\netcoreapp3.1\NameArray.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\obj\Debug\netcoreapp3.1\NameArray.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\bin\Debug\netcoreapp3.1\NameArray.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\bin\Debug\netcoreapp3.1\NameArray.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\bin\Debug\netcoreapp3.1\NameArray.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\bin\Debug\netcoreapp3.1\NameArray.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\bin\Debug\netcoreapp3.1\NameArray.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\bin\Debug\netcoreapp3.1\NameArray.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\obj\Debug\netcoreapp3.1\NameArray.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\obj\Debug\netcoreapp3.1\NameArray.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\NameArray\obj\Debug\netcoreapp3.1\NameArray.genruntimeconfig.cache

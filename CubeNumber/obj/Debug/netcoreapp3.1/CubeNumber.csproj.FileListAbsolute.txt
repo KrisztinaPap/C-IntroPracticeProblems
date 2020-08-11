@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\obj\Debug\netcoreapp3.1\CubeNumber.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\obj\Debug\netcoreapp3.1\CubeNumber.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\obj\Debug\netcoreapp3.1\CubeNumber.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\obj\Debug\netcoreapp3.1\CubeNumber.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\bin\Debug\netcoreapp3.1\CubeNumber.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\bin\Debug\netcoreapp3.1\CubeNumber.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\bin\Debug\netcoreapp3.1\CubeNumber.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\bin\Debug\netcoreapp3.1\CubeNumber.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\bin\Debug\netcoreapp3.1\CubeNumber.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\bin\Debug\netcoreapp3.1\CubeNumber.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\obj\Debug\netcoreapp3.1\CubeNumber.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\obj\Debug\netcoreapp3.1\CubeNumber.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\CubeNumber\obj\Debug\netcoreapp3.1\CubeNumber.genruntimeconfig.cache

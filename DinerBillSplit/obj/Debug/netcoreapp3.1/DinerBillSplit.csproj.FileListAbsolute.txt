@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\bin\Debug\netcoreapp3.1\DinerBillSplit.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\bin\Debug\netcoreapp3.1\DinerBillSplit.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\bin\Debug\netcoreapp3.1\DinerBillSplit.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\bin\Debug\netcoreapp3.1\DinerBillSplit.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\bin\Debug\netcoreapp3.1\DinerBillSplit.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\bin\Debug\netcoreapp3.1\DinerBillSplit.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\obj\Debug\netcoreapp3.1\DinerBillSplit.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\obj\Debug\netcoreapp3.1\DinerBillSplit.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\obj\Debug\netcoreapp3.1\DinerBillSplit.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\obj\Debug\netcoreapp3.1\DinerBillSplit.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\obj\Debug\netcoreapp3.1\DinerBillSplit.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\obj\Debug\netcoreapp3.1\DinerBillSplit.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\DinerBillSplit\obj\Debug\netcoreapp3.1\DinerBillSplit.genruntimeconfig.cache

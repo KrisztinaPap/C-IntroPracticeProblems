@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\bin\Debug\netcoreapp3.1\PaintForFence.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\bin\Debug\netcoreapp3.1\PaintForFence.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\bin\Debug\netcoreapp3.1\PaintForFence.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\bin\Debug\netcoreapp3.1\PaintForFence.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\bin\Debug\netcoreapp3.1\PaintForFence.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\bin\Debug\netcoreapp3.1\PaintForFence.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\obj\Debug\netcoreapp3.1\PaintForFence.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\obj\Debug\netcoreapp3.1\PaintForFence.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\obj\Debug\netcoreapp3.1\PaintForFence.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\obj\Debug\netcoreapp3.1\PaintForFence.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\obj\Debug\netcoreapp3.1\PaintForFence.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\obj\Debug\netcoreapp3.1\PaintForFence.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\PaintForFence\obj\Debug\netcoreapp3.1\PaintForFence.genruntimeconfig.cache

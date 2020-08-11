@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\bin\Debug\netcoreapp3.1\DigitSumCalculator.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\bin\Debug\netcoreapp3.1\DigitSumCalculator.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\bin\Debug\netcoreapp3.1\DigitSumCalculator.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\bin\Debug\netcoreapp3.1\DigitSumCalculator.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\bin\Debug\netcoreapp3.1\DigitSumCalculator.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\bin\Debug\netcoreapp3.1\DigitSumCalculator.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\obj\Debug\netcoreapp3.1\DigitSumCalculator.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\obj\Debug\netcoreapp3.1\DigitSumCalculator.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\obj\Debug\netcoreapp3.1\DigitSumCalculator.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\obj\Debug\netcoreapp3.1\DigitSumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\obj\Debug\netcoreapp3.1\DigitSumCalculator.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\obj\Debug\netcoreapp3.1\DigitSumCalculator.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\DigitSumCalculator\obj\Debug\netcoreapp3.1\DigitSumCalculator.genruntimeconfig.cache

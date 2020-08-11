@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\obj\Debug\netcoreapp3.1\FindMinMax.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\obj\Debug\netcoreapp3.1\FindMinMax.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\obj\Debug\netcoreapp3.1\FindMinMax.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\obj\Debug\netcoreapp3.1\FindMinMax.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\bin\Debug\netcoreapp3.1\FindMinMax.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\bin\Debug\netcoreapp3.1\FindMinMax.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\bin\Debug\netcoreapp3.1\FindMinMax.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\bin\Debug\netcoreapp3.1\FindMinMax.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\bin\Debug\netcoreapp3.1\FindMinMax.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\bin\Debug\netcoreapp3.1\FindMinMax.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\obj\Debug\netcoreapp3.1\FindMinMax.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\obj\Debug\netcoreapp3.1\FindMinMax.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\FindMinMax\obj\Debug\netcoreapp3.1\FindMinMax.genruntimeconfig.cache

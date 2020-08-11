@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\bin\Debug\netcoreapp3.1\EnterInteger.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\bin\Debug\netcoreapp3.1\EnterInteger.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\bin\Debug\netcoreapp3.1\EnterInteger.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\bin\Debug\netcoreapp3.1\EnterInteger.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\bin\Debug\netcoreapp3.1\EnterInteger.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\bin\Debug\netcoreapp3.1\EnterInteger.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\obj\Debug\netcoreapp3.1\EnterInteger.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\obj\Debug\netcoreapp3.1\EnterInteger.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\obj\Debug\netcoreapp3.1\EnterInteger.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\obj\Debug\netcoreapp3.1\EnterInteger.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\obj\Debug\netcoreapp3.1\EnterInteger.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\obj\Debug\netcoreapp3.1\EnterInteger.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterInteger\obj\Debug\netcoreapp3.1\EnterInteger.genruntimeconfig.cache

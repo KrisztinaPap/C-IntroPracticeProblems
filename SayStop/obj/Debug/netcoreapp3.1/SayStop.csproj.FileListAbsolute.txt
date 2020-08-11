@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\bin\Debug\netcoreapp3.1\SayStop.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\bin\Debug\netcoreapp3.1\SayStop.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\bin\Debug\netcoreapp3.1\SayStop.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\bin\Debug\netcoreapp3.1\SayStop.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\bin\Debug\netcoreapp3.1\SayStop.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\bin\Debug\netcoreapp3.1\SayStop.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\obj\Debug\netcoreapp3.1\SayStop.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\obj\Debug\netcoreapp3.1\SayStop.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\obj\Debug\netcoreapp3.1\SayStop.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\obj\Debug\netcoreapp3.1\SayStop.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\obj\Debug\netcoreapp3.1\SayStop.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\obj\Debug\netcoreapp3.1\SayStop.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\SayStop\obj\Debug\netcoreapp3.1\SayStop.genruntimeconfig.cache

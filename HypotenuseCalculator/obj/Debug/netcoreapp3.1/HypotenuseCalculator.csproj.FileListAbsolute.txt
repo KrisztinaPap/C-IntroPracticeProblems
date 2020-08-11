@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\bin\Debug\netcoreapp3.1\HypotenuseCalculator.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\bin\Debug\netcoreapp3.1\HypotenuseCalculator.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\bin\Debug\netcoreapp3.1\HypotenuseCalculator.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\bin\Debug\netcoreapp3.1\HypotenuseCalculator.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\bin\Debug\netcoreapp3.1\HypotenuseCalculator.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\bin\Debug\netcoreapp3.1\HypotenuseCalculator.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\obj\Debug\netcoreapp3.1\HypotenuseCalculator.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\obj\Debug\netcoreapp3.1\HypotenuseCalculator.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\obj\Debug\netcoreapp3.1\HypotenuseCalculator.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\obj\Debug\netcoreapp3.1\HypotenuseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\obj\Debug\netcoreapp3.1\HypotenuseCalculator.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\obj\Debug\netcoreapp3.1\HypotenuseCalculator.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\HypotenuseCalculator\obj\Debug\netcoreapp3.1\HypotenuseCalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\bin\Debug\netcoreapp3.1\BirthYearCalculator.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\bin\Debug\netcoreapp3.1\BirthYearCalculator.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\bin\Debug\netcoreapp3.1\BirthYearCalculator.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\bin\Debug\netcoreapp3.1\BirthYearCalculator.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\bin\Debug\netcoreapp3.1\BirthYearCalculator.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\bin\Debug\netcoreapp3.1\BirthYearCalculator.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\obj\Debug\netcoreapp3.1\BirthYearCalculator.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\obj\Debug\netcoreapp3.1\BirthYearCalculator.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\obj\Debug\netcoreapp3.1\BirthYearCalculator.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\obj\Debug\netcoreapp3.1\BirthYearCalculator.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\obj\Debug\netcoreapp3.1\BirthYearCalculator.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\obj\Debug\netcoreapp3.1\BirthYearCalculator.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\BirthYearCalculator\obj\Debug\netcoreapp3.1\BirthYearCalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\bin\Debug\netcoreapp3.1\EnterMarks.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\bin\Debug\netcoreapp3.1\EnterMarks.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\bin\Debug\netcoreapp3.1\EnterMarks.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\bin\Debug\netcoreapp3.1\EnterMarks.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\bin\Debug\netcoreapp3.1\EnterMarks.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\bin\Debug\netcoreapp3.1\EnterMarks.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\obj\Debug\netcoreapp3.1\EnterMarks.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\obj\Debug\netcoreapp3.1\EnterMarks.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\obj\Debug\netcoreapp3.1\EnterMarks.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\obj\Debug\netcoreapp3.1\EnterMarks.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\obj\Debug\netcoreapp3.1\EnterMarks.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\obj\Debug\netcoreapp3.1\EnterMarks.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\EnterMarks\obj\Debug\netcoreapp3.1\EnterMarks.genruntimeconfig.cache
